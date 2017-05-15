@@ -152,7 +152,7 @@ In addition to the hostnames for the master console and API, A wildcard DNS entr
 openshift_master_default_subdomain=cloudapps.c1-ocp.myorg.com
 ----
 
-image::/images/dnsmastersinfra.png[DNS Diagram]
+image::/images/dnsmasterinfra.png[DNS Diagram]
 
 
 Having added all of the above to your inventory file we should have something like the following in your inventory file.
